@@ -15,4 +15,4 @@ Sensor Data Collection: Use the DHT11/DHT22 sensor to measure temperature and hu
 
 Technologies Used Hardware: DHT11/DHT22 Sensor Microcontroller (e.g., Arduino, Raspberry Pi, ESP32, etc.) Optional: LCD Display/LEDs Software: TINKERCAD
 
-OUTPUT PIC: Screenshot 2024-12-12 201256
+OUTPUT PIC: https://github.com/user-attachments/assets/fbde10ad-39aa-4677-aee6-6701858bad35
